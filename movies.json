@@ -1,0 +1,137 @@
+{
+	"movies": [
+		{
+			"id": "1",
+			"movie_name": "Crash (I) (2004)",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+			"movie_director": "Paul Haggis",
+			"movie_cast": " Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave",
+			"sales": [
+				{
+					"sale_id": "1",
+					"sale_amount": "$3000",
+					"movie_name": "Crash (I) (2004)",
+					"image": "https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+				},
+				{
+					"sale_id": "2",
+					"sale_amount": "$5000",
+					"movie_name": "Crash (I) (2004)",
+					"image": "https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+				},
+				{
+					"sale_id": "3",
+					"sale_amount": "$1000",
+					"movie_name": "Crash (I) (2004)",
+					"image": "https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"movie_name": "Pulp Fiction (1994)",
+			"image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR2,0,140,209_AL_.jpg",
+			"movie_director": "Quentin Tarantino",
+			"movie_cast": "John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis",
+			"sales": [
+				{
+					"sale_id": "1",
+					"sale_amount": "$2000",
+					"movie_name": "Pulp Fiction (1994)",
+					"image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR2,0,140,209_AL_.jpg"
+				},
+				{
+					"sale_id": "2",
+					"sale_amount": "$4000",
+					"movie_name": "Pulp Fiction (1994)",
+					"image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR2,0,140,209_AL_.jpg"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"movie_name": "Django Unchained (2012)",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+			"movie_director": "Quentin Tarantino",
+			"movie_cast": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+			"sales": [
+				{
+					"sale_id": "1",
+					"sale_amount": "$800",
+					"movie_name": "Django Unchained (2012)",
+					"image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+				},
+				{
+					"sale_id": "2",
+					"sale_amount": "$1400",
+					"movie_name": "Django Unchained (2012)",
+					"image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+				}
+			]
+		},
+
+		{
+			"id": "4",
+			"movie_name": "The Revenant",
+			"image": "https://www.telegraph.co.uk/content/dam/film/the%20revenant/leo.jpg?imwidth=1400",
+			"movie_director": "Alejandro G. Inarritu",
+			"movie_cast": "Leonardo Dicaprio, Tom Hardey",
+			"sales": [
+				{
+					"sale_id": "1",
+					"sale_amount": "$1800",
+					"movie_name": "The Revenant",
+					"image": "https://www.telegraph.co.uk/content/dam/film/the%20revenant/leo.jpg?imwidth=1400"
+				},
+				{
+					"sale_id": "2",
+					"sale_amount": "$3200",
+					"movie_name": "The Revenant",
+					"image": "https://www.telegraph.co.uk/content/dam/film/the%20revenant/leo.jpg?imwidth=1400"
+				}
+			]
+		},
+		{
+			"id": "5",
+			"movie_name": "The Dark knight",
+			"image": "https://www.legendarytrips.com/wp-content/uploads/Cover_The-Dark-Knight_2008_LegendaryTrips.jpg",
+			"movie_director": "Christopher Nolan",
+			"movie_cast": "Christian Bale, Heath Ledger, Aaron Eckhart",
+			"sales": [
+				{
+					"sale_id": "1",
+					"sale_amount": "$2200",
+					"movie_name": "The Dark knight",
+					"image": "https://www.legendarytrips.com/wp-content/uploads/Cover_The-Dark-Knight_2008_LegendaryTrips.jpg"
+				},
+				{
+					"sale_id": "2",
+					"sale_amount": "$1700",
+					"movie_name": "The Dark knight",
+					"image": "https://www.legendarytrips.com/wp-content/uploads/Cover_The-Dark-Knight_2008_LegendaryTrips.jpg"
+				}
+			]
+		},
+		{
+			"id": "6",
+			"movie_name": "Interstellar",
+			"image": "http://i0.kym-cdn.com/photos/images/original/000/964/872/5b5.jpg",
+			"movie_director": "Christopher Nolan",
+			"movie_cast": "Matthew McConaughey, Anne Hathaway",
+			"sales": [
+				{
+					"sale_id": "1",
+					"sale_amount": "$2400",
+					"movie_name": "Interstellar",
+					"image": "http://i0.kym-cdn.com/photos/images/original/000/964/872/5b5.jpg"
+				},
+				{
+					"sale_id": "2",
+					"sale_amount": "$3300",
+					"movie_name": "Interstellar",
+					"image": "http://i0.kym-cdn.com/photos/images/original/000/964/872/5b5.jpg"
+				}
+			]
+		}
+	]
+}
