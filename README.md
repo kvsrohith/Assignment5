@@ -15,6 +15,6 @@ _________
 
 -Check the image created using "docker images"
 
--Run the app image inside a container using "docker run -d -p 8080:8080 docker-python"
+-Run the app image inside a container using "docker run -d -p 8000:8000 docker-python"
 
 -Check running docker container by "docker ps"
